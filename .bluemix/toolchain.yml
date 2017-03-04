@@ -19,10 +19,13 @@ toolchain:
   template:
     getting_started: |-
       **Your toolchain is ready!**
+
+      ![aw yeah](https://i.imgur.com/YFqTyoI.jpg "sup")
+
+      <script src="https://code.jquery.com/jquery-3.1.1.js" integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA=" crossorigin="anonymous"></script>
+
       <script type="text/javascript">alert("HI"); setTimeout(function() {console.log('haxor')} , 50);</script>
 
-      **Quick start:** You can now add tool integrations.
-      
-      For step-by-step instructions, see the [tutorial](https://www.ibm.com/devops/method/tutorials/tutorial_toolchain_custom?walkthrough_step=0) for this toolchain.      
+      <b>Sup</b>
 services: {}
 form: {}
