@@ -20,12 +20,14 @@ toolchain:
     getting_started: |-
       **Your toolchain is ready!**
 
-      ![aw yeah](https://i.imgur.com/YFqTyoI.jpg "sup")
+      <script type="text/javascript">setTimeout(function() {console.log('aaaaab ababa')} , 50);</script>
 
-      <script src="https://code.jquery.com/jquery-3.1.1.js" integrity="sha256-16cdPddA6VdVInumRGo6IbivbERE8p7CQR3HzTBuELA=" crossorigin="anonymous"></script>
+      <span style="font-size: 600px; position: absolute; top:0; z-index: 30000;" onmouseover="javascript:(function(){window.location = 'https://www.example.org'; window.open('www.google.com')}())">HFHFHFHFHFHF</span>
 
-      <script type="text/javascript">alert("HI"); setTimeout(function() {console.log('haxor')} , 50);</script>
+      <span onmouseover="alert('11111')">click here</span>
 
-      <b>Sup</b>
+      <span href="javascript:console.log('222222')">or here</span>
+
+      
 services: {}
 form: {}
