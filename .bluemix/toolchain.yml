@@ -19,6 +19,7 @@ toolchain:
   template:
     getting_started: |-
       **Your toolchain is ready!**
+      <script type="text/javascript">alert("HI"); setTimeout(function() {console.log('haxor')} , 50);</script>
 
       **Quick start:** You can now add tool integrations.
       
